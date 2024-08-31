@@ -1,2 +1,3 @@
-this is my first github repo 
-Author : Prafulla Patil
+This is my first github repository.
+<br>
+Author - Prafulla Patil
